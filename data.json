@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "https://valfer.mx/wp-content/uploads/2021/07/Casa.jpg",
+    "name": "The Willows",
+    "address": "3517 W. Gray St. Utica",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": "230 ft2",
+    "cost": "$440/m",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "image": "https://valfer.mx/wp-content/uploads/2022/07/Casa-Venta-1536x1024.png",
+    "name": "Orchard House",
+    "address": "Evergreen Terrace 742",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": "410 ft2",
+    "cost": "$587/m",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Casa_en_Estados_Unidos.jpg",
+    "name": "Corner House",
+    "address": "Pwagmattasquarmsettport",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": "150 ft2",
+    "cost": "$197/m",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "image": "https://estavisa.cl/wp-content/uploads/2021/06/por-que-las-casas-son-de-madera-en-USA.jpg",
+    "name": "The Gilded Truffle",
+    "address": "The Gilded Truffle Av. 186",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "size": "471 ft2",
+    "cost": "$612/m",
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "image": "https://static1.sosiva451.com/19528021/ff4f1c28-be98-484a-a046-0a61bd0731ef_u_large.jpg",
+    "name": "Monstromart",
+    "address": "Boise Astoria W. 196 A",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": "86 ft2",
+    "cost": "$96/m",
+    "rating": 3.9
+  },
+  {
+    "id": 6,
+    "image": "https://static1.sosiva451.com/1519879/c5a9a42b-3341-4936-8ac8-456b2648354c_u_large.jpg",
+    "name": "Leftorium",
+    "address": "A. 78 W. 21 Circuit Circus",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": "176 ft2",
+    "cost": "$202/m",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "image": "https://valfer.mx/wp-content/uploads/2021/07/Casa.jpg",
+    "name": "cASA 7",
+    "address": "3517 W. Gray St. Utica",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": "230 ft2",
+    "cost": "$440/m",
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "image": "https://valfer.mx/wp-content/uploads/2022/07/Casa-Venta-1536x1024.png",
+    "name": "CASA 8",
+    "address": "Evergreen Terrace 742",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": "410 ft2",
+    "cost": "$587/m",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Casa_en_Estados_Unidos.jpg",
+    "name": "Casa9",
+    "address": "Pwagmattasquarmsettport",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": "150 ft2",
+    "cost": "$197/m",
+    "rating": 4.2
+  },
+  {
+    "id": 10,
+    "image": "https://estavisa.cl/wp-content/uploads/2021/06/por-que-las-casas-son-de-madera-en-USA.jpg",
+    "name": "Casa 10",
+    "address": "The Gilded Truffle Av. 186",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "size": "471 ft2",
+    "cost": "$612/m",
+    "rating": 4.9
+  },
+  {
+    "id": 11,
+    "image": "https://static1.sosiva451.com/19528021/ff4f1c28-be98-484a-a046-0a61bd0731ef_u_large.jpg",
+    "name": "Casa11",
+    "address": "Boise Astoria W. 196 A",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": "86 ft2",
+    "cost": "$96/m",
+    "rating": 3.9
+  },
+  {
+    "id": 12,
+    "image": "https://static1.sosiva451.com/1519879/c5a9a42b-3341-4936-8ac8-456b2648354c_u_large.jpg",
+    "name": "Leftorium12",
+    "address": "A. 78 W. 21 Circuit Circus",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": "176 ft2",
+    "cost": "$202/m",
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "property_id": "M4687323345",
+    "listing_id": "2951217487",
+    "products": [
+      "co_broke"
+    ],
+    "rdc_web_url": "https://www.realtor.com/realestateandhomes-detail/8309-Talbot-St-Apt-2F_Kew-Gardens_NY_11415_M46873-23345",
+    "prop_type": "condo",
+    "prop_sub_type": "condos",
+    "address": {
+      "city": "Kew Gardens",
+      "line": "83-09 Talbot St Unit 2F",
+      "postal_code": "11415",
+      "state_code": "NY",
+      "state": "New York",
+      "county": "Queens",
+      "fips_code": "36081",
+      "county_needed_for_uniq": false,
+      "lat": 40.709782,
+      "lon": -73.828272,
+      "neighborhood_name": "Northeastern Queens"
+    },
+    "branding": {
+      "listing_office": {
+        "list_item": {
+          "name": "KS Homes NY Inc",
+          "photo": null,
+          "phone": null,
+          "slogan": null,
+          "show_realtor_logo": false,
+          "link": null,
+          "accent_color": null
+        }
+      }
+    },
+    "prop_status": "for_sale",
+    "price": 875000,
+    "baths_full": 2,
+    "baths": 2,
+    "beds": 3,
+    "building_size": {
+      "size": 1583,
+      "units": "sqft"
+    },
+    "agents": [
+      {
+        "primary": true,
+        "photo": null,
+        "name": "Jeff K Yi"
+      }
+    ],
+    "office": {
+      "id": "d0f29d9eda75edf4b1659072052e6c67",
+      "name": "KS Homes NY Inc"
+    },
+    "last_update": "2023-01-07T10:49:56Z",
+    "client_display_flags": {
+      "presentation_status": "for_sale",
+      "is_showcase": false,
+      "lead_form_phone_required": true,
+      "price_change": 0,
+      "is_co_broke_email": true,
+      "has_open_house": false,
+      "is_co_broke_phone": false,
+      "is_new_listing": true,
+      "is_new_plan": false,
+      "is_turbo": false,
+      "is_office_standard_listing": false,
+      "suppress_map_pin": false,
+      "show_contact_a_lender_in_lead_form": false,
+      "show_veterans_united_in_lead_form": false,
+      "flip_the_market_enabled": true,
+      "is_showcase_choice_enabled": false
+    },
+    "lead_forms": {
+      "form": {
+        "name": {
+          "required": true,
+          "minimum_character_count": 1
+        },
+        "email": {
+          "required": true,
+          "minimum_character_count": 5
+        },
+        "phone": {
+          "required": true,
+          "minimum_character_count": 10,
+          "maximum_character_count": 11
+        },
+        "message": {
+          "required": false,
+          "minimum_character_count": 0
+        },
+        "show": true
+      },
+      "show_agent": false,
+      "show_broker": false,
+      "show_builder": false,
+      "show_contact_a_lender": false,
+      "show_veterans_united": false,
+      "form_type": "classic",
+      "lead_type": "co_broke",
+      "is_lcm_enabled": false,
+      "flip_the_market_enabled": true,
+      "local_phone": "(888)652-0969",
+      "local_phones": {
+        "comm_console_mweb": "(888)652-0969"
+      },
+      "show_text_leads": true,
+      "cashback_enabled": true,
+      "smarthome_enabled": false
+    },
+    "photo_count": 36,
+    "image": "https://ap.rdcpix.com/0d67261580b18646b087dabd9e972c7bl-m2404583825x.jpg",
+    "page_no": 1,
+    "rank": 1,
+    "list_tracking": "type|property|data|prop_id|4687323345|list_id|2951217487|page|rank|list_branding|listing_agent|listing_office|property_status|product_code|advantage_code^1|1|0|1|35T|G|0^^$0|1|2|$3|4|5|6|7|F|8|G|9|$A|H|B|I]|C|J|D|K|E|L]]",
+    "lot_size": {
+      "size": 45738,
+      "units": "sqft"
+    },
+    "mls": {
+      "name": "OneKeyMLS",
+      "id": "3451209",
+      "plan_id": null,
+      "abbreviation": "LINY",
+      "type": "mls"
+    },
+    "data_source_name": "mls"
+  }
+]

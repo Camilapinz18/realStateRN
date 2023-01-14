@@ -396,142 +396,7 @@
     },
     "data_source_name": "mls"
   },
-  {
-    "property_id": "M9144400758",
-    "listing_id": "2951214029",
-    "products": [
-      "core.agent",
-      "core.broker",
-      "co_broke"
-    ],
-    "rdc_web_url": "https://www.realtor.com/realestateandhomes-detail/355-New-Lots-Ave_Brooklyn_NY_11207_M91444-00758",
-    "prop_type": "multi_family",
-    "address": {
-      "city": "Brooklyn",
-      "line": "355 New Lots Ave",
-      "postal_code": "11207",
-      "state_code": "NY",
-      "state": "New York",
-      "county": "Kings",
-      "fips_code": "36047",
-      "county_needed_for_uniq": false,
-      "lat": 40.661674,
-      "lon": -73.893976,
-      "neighborhood_name": "East New York"
-    },
-    "branding": {
-      "listing_office": {
-        "list_item": {
-          "name": "Prime America Real Estate Inc",
-          "photo": null,
-          "phone": null,
-          "slogan": null,
-          "show_realtor_logo": false,
-          "link": null,
-          "accent_color": null
-        }
-      }
-    },
-    "prop_status": "for_sale",
-    "price": 1898000,
-    "baths_half": 1,
-    "baths_full": 4,
-    "baths": 5,
-    "beds": 5,
-    "building_size": {
-      "size": 5275,
-      "units": "sqft"
-    },
-    "agents": [
-      {
-        "primary": true,
-        "advertiser_id": "2131632",
-        "id": "2131632",
-        "photo": {
-          "href": "https://ap.rdcpix.com/a6be100af9588035193f9dd2e3de786aa-e3048580855od-r7_w110.jpg"
-        },
-        "name": "Gobinda Lama"
-      }
-    ],
-    "office": {
-      "id": "8d0789dbda131ac984122566f8bf29c7",
-      "name": "Prime America Real Estate Inc"
-    },
-    "last_update": "2023-01-07T04:20:49Z",
-    "client_display_flags": {
-      "presentation_status": "for_sale",
-      "is_showcase": false,
-      "lead_form_phone_required": true,
-      "price_change": 0,
-      "is_co_broke_email": true,
-      "has_open_house": false,
-      "is_co_broke_phone": false,
-      "is_new_listing": true,
-      "is_new_plan": false,
-      "is_turbo": false,
-      "is_office_standard_listing": false,
-      "suppress_map_pin": false,
-      "show_contact_a_lender_in_lead_form": false,
-      "show_veterans_united_in_lead_form": false,
-      "flip_the_market_enabled": true,
-      "is_showcase_choice_enabled": false
-    },
-    "lead_forms": {
-      "form": {
-        "name": {
-          "required": true,
-          "minimum_character_count": 1
-        },
-        "email": {
-          "required": true,
-          "minimum_character_count": 5
-        },
-        "phone": {
-          "required": true,
-          "minimum_character_count": 10,
-          "maximum_character_count": 11
-        },
-        "message": {
-          "required": false,
-          "minimum_character_count": 0
-        },
-        "show": true
-      },
-      "show_agent": false,
-      "show_broker": false,
-      "show_builder": false,
-      "show_contact_a_lender": false,
-      "show_veterans_united": false,
-      "form_type": "classic",
-      "lead_type": "co_broke",
-      "is_lcm_enabled": false,
-      "flip_the_market_enabled": true,
-      "local_phone": "(888)860-0947",
-      "local_phones": {
-        "comm_console_mweb": "(888)860-0947"
-      },
-      "show_text_leads": true,
-      "cashback_enabled": true,
-      "smarthome_enabled": false
-    },
-    "photo_count": 22,
-    "image": "https://ap.rdcpix.com/852ad38a958a72bb7485e50e4d6576d7l-m3942943782x.jpg",
-    "page_no": 1,
-    "rank": 4,
-    "list_tracking": "type|property|data|prop_id|9144400758|list_id|2951214029|page|rank|list_branding|listing_agent|listing_office|advertiser_id|agent|office|broker|property_status|product_code|advantage_code^1|4|0|1|19OS0|2LGOR|2LFG7|35T|G|5^^$0|1|2|$3|4|5|6|7|J|8|K|9|$A|L|B|M]|C|$D|N|E|O|F|P]|G|Q|H|R|I|S]]",
-    "lot_size": {
-      "size": 1893,
-      "units": "sqft"
-    },
-    "mls": {
-      "name": "MyStateMLS",
-      "id": "11144267",
-      "plan_id": null,
-      "abbreviation": "STNY",
-      "type": "mls"
-    },
-    "data_source_name": "mls"
-  },
+  
   {
     "property_id": "M4168537402",
     "listing_id": "2951213986",
@@ -3276,7 +3141,6 @@
       "size": 1234,
       "units": "sqft"
     },
-
     "prop_status": "for_sale",
     "price": 259000,
     "baths_full": 1,
@@ -4687,7 +4551,7 @@
     "prop_type": "multi_family",
     "address": {
       "city": "Brooklyn",
-      "line": "3505 New Lots Ave",
+      "line": "355 New Lots Ave",
       "postal_code": "11207",
       "state_code": "NY",
       "state": "New York",
@@ -5529,7 +5393,8 @@
       "show_veterans_united_in_lead_form": false,
       "flip_the_market_enabled": true,
       "is_showcase_choice_enabled": false
-    },"building_size": {
+    },
+    "building_size": {
       "size": 2240,
       "units": "sqft"
     },
@@ -14682,7 +14547,7 @@
     "prop_sub_type": "townhomes",
     "address": {
       "city": "Brooklyn",
-      "line": "3827 Barbey St",
+      "line": "382 Barbey St",
       "postal_code": "11207",
       "state_code": "NY",
       "state": "New York",
@@ -15764,7 +15629,7 @@
       }
     },
     "prop_status": "for_sale",
-    "price": 420,
+    "price": 420000,
     "baths_full": 1,
     "baths": 1,
     "beds": 1,
@@ -17101,7 +16966,6 @@
       "size": 3541,
       "units": "sqft"
     },
-
     "office": {
       "id": "96f979740fd101fdb7649d5611d1829b",
       "name": "Cordial Realty Group Inc"
@@ -21552,8 +21416,8 @@
           "accent_color": null
         }
       }
-      
-    },"building_size": {
+    },
+    "building_size": {
       "size": 7952,
       "units": "sqft"
     },
@@ -23520,7 +23384,7 @@
     "prop_sub_type": "townhomes",
     "address": {
       "city": "New York",
-      "line": "14 Washington Ter",
+      "line": "15 Washington Ter",
       "postal_code": "10033",
       "state_code": "NY",
       "state": "New York",
@@ -24190,140 +24054,6 @@
     "data_source_name": "mls"
   },
   {
-    "property_id": "M9137434213",
-    "listing_id": "2951179975",
-    "products": [
-      "core.agent",
-      "core.broker",
-      "co_broke"
-    ],
-    "rdc_web_url": "https://www.realtor.com/realestateandhomes-detail/15-Washington-Ter_New-York_NY_10033_M91374-34213",
-    "prop_type": "condo",
-    "prop_sub_type": "townhomes",
-    "address": {
-      "city": "New York",
-      "line": "15 Washington Ter",
-      "postal_code": "10033",
-      "state_code": "NY",
-      "state": "New York",
-      "county": "New York",
-      "fips_code": "36061",
-      "county_needed_for_uniq": false,
-      "time_zone": "America/New_York",
-      "lat": 40.851028,
-      "lon": -73.929507,
-      "neighborhood_name": "Washington Heights"
-    },
-    "branding": {
-      "listing_office": {
-        "list_item": {
-          "name": "Keller Williams NYC",
-          "photo": null,
-          "phone": null,
-          "slogan": null,
-          "show_realtor_logo": false,
-          "link": null,
-          "accent_color": null
-        }
-      }
-    },
-    "prop_status": "for_sale",
-    "price": 999999,
-    "baths_full": 4,
-    "baths": 4,
-    "beds": 6,
-    "building_size": {
-      "size": 2040,
-      "units": "sqft"
-    },
-    "open_houses": [
-      {
-        "start_date": "2023-01-08T17:00:00.000Z",
-        "end_date": "2023-01-08T18:00:00.000Z",
-        "time_zone": "EST",
-        "dst": true
-      }
-    ],
-    "agents": [
-      {
-        "primary": true,
-        "advertiser_id": "4074124",
-        "id": "4074124",
-        "photo": null,
-        "name": "Nikolay Afanasyev"
-      }
-    ],
-    "office": {
-      "id": "9dfbc0d254d10fbd30f349be04251a61",
-      "name": "Keller Williams NYC"
-    },
-    "last_update": "2023-01-06T12:01:21Z",
-    "client_display_flags": {
-      "presentation_status": "for_sale",
-      "is_showcase": false,
-      "lead_form_phone_required": true,
-      "price_change": 0,
-      "is_co_broke_email": true,
-      "has_open_house": true,
-      "is_co_broke_phone": false,
-      "is_new_listing": true,
-      "is_new_plan": false,
-      "is_turbo": false,
-      "is_office_standard_listing": false,
-      "suppress_map_pin": false,
-      "show_contact_a_lender_in_lead_form": false,
-      "show_veterans_united_in_lead_form": false,
-      "is_showcase_choice_enabled": false
-    },
-    "lead_forms": {
-      "form": {
-        "name": {
-          "required": true,
-          "minimum_character_count": 1
-        },
-        "email": {
-          "required": true,
-          "minimum_character_count": 5
-        },
-        "phone": {
-          "required": true,
-          "minimum_character_count": 10,
-          "maximum_character_count": 11
-        },
-        "message": {
-          "required": false,
-          "minimum_character_count": 0
-        },
-        "show": true
-      },
-      "show_agent": false,
-      "show_broker": false,
-      "show_builder": false,
-      "show_contact_a_lender": false,
-      "show_veterans_united": false,
-      "form_type": "classic",
-      "lead_type": "co_broke",
-      "is_lcm_enabled": false,
-      "flip_the_market_enabled": false,
-      "show_text_leads": true,
-      "cashback_enabled": false,
-      "smarthome_enabled": false
-    },
-    "photo_count": 14,
-    "image": "https://ap.rdcpix.com/2c84d2b6873166cbdb21d93488421386l-m3564116999x.jpg",
-    "page_no": 5,
-    "rank": 13,
-    "list_tracking": "type|property|data|prop_id|9137434213|list_id|2951179975|page|rank|list_branding|listing_agent|listing_office|advertiser_id|agent|office|broker|property_status|product_code|advantage_code^5|D|0|1|2FBM4|17WQH|17TKQ|35T|G|5^^$0|1|2|$3|4|5|6|7|J|8|K|9|$A|L|B|M]|C|$D|N|E|O|F|P]|G|Q|H|R|I|S]]",
-    "mls": {
-      "name": "RealtyMXNYC",
-      "id": "382257979",
-      "plan_id": null,
-      "abbreviation": "BDNY",
-      "type": "mls"
-    },
-    "data_source_name": "mls"
-  },
-  {
     "property_id": "M3632622792",
     "listing_id": "2951179970",
     "products": [
@@ -24477,7 +24207,8 @@
       "lat": 40.880826,
       "lon": -73.910736,
       "neighborhood_name": "Riverdale"
-    },    "building_size": {
+    },
+    "building_size": {
       "size": 1072,
       "units": "sqft"
     },
@@ -25567,7 +25298,6 @@
       "size": 3120,
       "units": "sqft"
     },
-
     "agents": [
       {
         "primary": true,
@@ -25791,140 +25521,7 @@
     },
     "data_source_name": "mls"
   },
-  {
-    "property_id": "M4745782817",
-    "listing_id": "2951175308",
-    "products": [
-      "core.agent",
-      "co_broke"
-    ],
-    "rdc_web_url": "https://www.realtor.com/realestateandhomes-detail/382-Barbey-St_Brooklyn_NY_11207_M47457-82817",
-    "prop_type": "multi_family",
-    "address": {
-      "city": "Brooklyn",
-      "line": "382 Barbey St",
-      "postal_code": "11207",
-      "state_code": "NY",
-      "state": "New York",
-      "county": "Kings",
-      "fips_code": "36047",
-      "county_needed_for_uniq": false,
-      "lat": 40.673501,
-      "lon": -73.887981,
-      "neighborhood_name": "East New York"
-    },
-    "building_size": {
-      "size": 5210,
-      "units": "sqft"
-    },
-    "branding": {
-      "listing_office": {
-        "list_item": {
-          "name": "Brp Associates Inc",
-          "photo": null,
-          "phone": null,
-          "slogan": null,
-          "show_realtor_logo": false,
-          "link": null,
-          "accent_color": null
-        }
-      }
-    },
-    "prop_status": "for_sale",
-    "price": 1300000,
-    "baths_full": 6,
-    "baths": 6,
-    "beds": 6,
-    "agents": [
-      {
-        "primary": true,
-        "advertiser_id": "3365899",
-        "id": "3365899",
-        "photo": {
-          "href": "https://ap.rdcpix.com/2c8bcc0f34c6253460a02b541f6822bfa-c241624864od-r7_w110.jpg"
-        },
-        "name": "Jean Paul Ho"
-      }
-    ],
-    "office": {
-      "id": "f02122ed544cb69647b3e4074b59cdb4",
-      "name": "Brp Associates Inc"
-    },
-    "last_update": "2023-01-06T09:45:28Z",
-    "client_display_flags": {
-      "presentation_status": "for_sale",
-      "is_showcase": false,
-      "lead_form_phone_required": true,
-      "price_change": 0,
-      "is_co_broke_email": true,
-      "has_open_house": false,
-      "is_co_broke_phone": false,
-      "is_new_listing": true,
-      "is_new_plan": false,
-      "is_turbo": false,
-      "is_office_standard_listing": false,
-      "suppress_map_pin": false,
-      "show_contact_a_lender_in_lead_form": false,
-      "show_veterans_united_in_lead_form": false,
-      "flip_the_market_enabled": true,
-      "is_showcase_choice_enabled": false
-    },
-    "lead_forms": {
-      "form": {
-        "name": {
-          "required": true,
-          "minimum_character_count": 1
-        },
-        "email": {
-          "required": true,
-          "minimum_character_count": 5
-        },
-        "phone": {
-          "required": true,
-          "minimum_character_count": 10,
-          "maximum_character_count": 11
-        },
-        "message": {
-          "required": false,
-          "minimum_character_count": 0
-        },
-        "show": true
-      },
-      "show_agent": false,
-      "show_broker": false,
-      "show_builder": false,
-      "show_contact_a_lender": false,
-      "show_veterans_united": false,
-      "form_type": "classic",
-      "lead_type": "co_broke",
-      "is_lcm_enabled": false,
-      "flip_the_market_enabled": true,
-      "local_phone": "(888)860-0947",
-      "local_phones": {
-        "comm_console_mweb": "(888)860-0947"
-      },
-      "show_text_leads": true,
-      "cashback_enabled": true,
-      "smarthome_enabled": false
-    },
-    "photo_count": 2,
-    "image": "https://ap.rdcpix.com/cd0dd9fac77737ecc79e5c0f63c93456l-m685046242x.jpg",
-    "page_no": 5,
-    "rank": 25,
-    "list_tracking": "type|property|data|prop_id|4745782817|list_id|2951175308|page|rank|list_branding|listing_agent|listing_office|advertiser_id|agent|broker|property_status|product_code|advantage_code^5|P|0|1|20557|1V4XS|35T|G|1^^$0|1|2|$3|4|5|6|7|I|8|J|9|$A|K|B|L]|C|$D|M|E|N]|F|O|G|P|H|Q]]",
-    "lot_size": {
-      "size": 2500,
-      "units": "sqft"
-    },
-    "mls": {
-      "name": "Brooklyn",
-      "id": "470928",
-      "plan_id": null,
-      "abbreviation": "BONY",
-      "type": "mls"
-    },
-    "data_source_name": "mls"
-  },
+ 
   {
     "property_id": "M9100497720",
     "listing_id": "2951174281",
